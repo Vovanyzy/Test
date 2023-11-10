@@ -2,15 +2,12 @@
   background-color: red;
   height: 1500px;
 }
-.main-container__button_red {
+.button{
+  color: yellow;
+}
+.button_red{
   color: red;
 }
-.main-container__button_red__button {
-  color: aqua;
-}
-.main-container__button_red__button_red {
-  color: red;
-}
-.main-container__button_red__button_blue {
+.button_blue {
   color: blue;
 }
